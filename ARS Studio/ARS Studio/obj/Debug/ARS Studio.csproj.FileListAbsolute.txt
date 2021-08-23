@@ -792,3 +792,43 @@ C:\Users\Asus\Desktop\2018.05.29\ARS Studio\ARS Studio\obj\Debug\ARS Studio.cspr
 C:\Users\Asus\Desktop\2018.05.29\ARS Studio\ARS Studio\obj\Debug\ARS Studio.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\2018.05.29\ARS Studio\ARS Studio\obj\Debug\ARS Studio.exe
 C:\Users\Asus\Desktop\2018.05.29\ARS Studio\ARS Studio\obj\Debug\ARS Studio.pdb
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\ARS Studio.exe.config
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\ARS Studio.exe
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\ARS Studio.pdb
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Imaging.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Math.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Video.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.xml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Imaging.xml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Math.xml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Video.xml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.csprojAssemblyReference.cache
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Controls\NumericUpDownW.g.cs
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\MainWindow.g.cs
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\App.g.cs
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio_MarkupCompile.cache
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio_MarkupCompile.lref
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\App.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Controls\NumericUpDownW.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\ComboBoxes.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Sliders.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Buttons.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Colors.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Storyboards.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Fonts.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\MainWindow.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\Tickness.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\Styles\TextBoxes.baml
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.g.resources
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS_Studio.Properties.Resources.resources
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.csproj.GenerateResource.cache
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.csproj.CopyComplete
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.exe
+C:\Users\miche\Desktop\Projects\CSHARP\Ars-Project\ARS Studio\ARS Studio\obj\Debug\ARS Studio.pdb
